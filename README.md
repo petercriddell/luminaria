@@ -7,8 +7,7 @@ luminaria is simulated candle flame powered by the Atmel ATtiny25.
 Files
 =====
 
-/hardware - Fritzing design file
-
+/hardware - Fritzing design file<br>
 /software - Arduino IDE file
 
 License
