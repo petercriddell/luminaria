@@ -2,9 +2,13 @@
   =========
   A battery operated luminaria powered by the ATTiny25
 
-  This work is licensed by Peter Riddell under a Creative
-  Commons Attribution-ShareAlike 3.0 Unported License:
-  http://creativecommons.org/licenses/by-sa/3.0/
+  'luminaria' was written by Kevin Kettinger and is 
+  licensed under a Creative Commons Attribution-ShareAlike
+  3.0 Unported License: http://creativecommons.org/licenses/by-sa/3.0/
+  
+  The source-code for 'luminaria' is used her with the author's
+  permission and is available at http://ledhacker.blogspot.com/
+  The author may be contacted at kkettinger@gmail.com
   */
 
 #define FLICKER_LED_PIN 0
